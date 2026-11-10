@@ -24,6 +24,17 @@ The project demonstrates how data analytics and business intelligence tools can 
 
 Three interactive dashboards have been developed:
 
+
+### Executive Overview
+![Executive Overview](Tableau/Screenshots/Executive%20Overview.png)
+
+### Payments Operations
+![Payments Operations](Tableau/Screenshots/Payment%20Operations.png)
+
+### Data Quality & Controls
+![Data Quality & Controls](Tableau/Screenshots/Data%20Quality%20and%20Controls.png)
+
+
 ### 1. Executive Overview
 Provides a consolidated view of transaction volumes, completion rates, SLA attainment, transaction status and payment channel performance.
 
