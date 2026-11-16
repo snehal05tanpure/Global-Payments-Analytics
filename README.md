@@ -56,7 +56,7 @@ Provides a consolidated view of overall payment performance.
 - Completion Rate
 - SLA Attainment
 
-![Executive Overview](Executive%20Overview.png)
+![Executive Overview](Tableau/Screenshots/Executive%20Overview.png)
 
 ### 📍 Dashboard 2 – Payments Operations
 
@@ -68,7 +68,7 @@ Focuses on operational efficiency and payment processing performance.
 - Failed Transactions
 - Returned Transactions
 
-![Payments Operations](Payment%20Operation.png)
+![Payments Operations](Tableau/Screenshots/Payment%20Operations.png)
 
 ### 📍 Dashboard 3 – Data Quality & Controls
 
@@ -82,21 +82,8 @@ Provides visibility into transaction-level data quality issues and exceptions.
 - Repeated Reference IDs
 - Data Quality Issues by Severity
 
-![Data Quality and Controls](Data%20Quality%20and%20Controls.png)
-
-
-
-🔗 Three interactive dashboards have been developed:
-
-
-### Executive Overview
-![Executive Overview](Tableau/Screenshots/Executive%20Overview.png)
-
-### Payments Operations
-![Payments Operations](Tableau/Screenshots/Payment%20Operations.png)
-
-### Data Quality & Controls
 ![Data Quality & Controls](Tableau/Screenshots/Data%20Quality%20and%20Controls.png)
+
 
 ## 📈 5. Power BI Dashboard
 
