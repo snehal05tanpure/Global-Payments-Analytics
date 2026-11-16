@@ -12,7 +12,7 @@ The objective is to transform transactional data into meaningful business insigh
 
 The project uses a synthetic payments and trade dataset designed to simulate real-world banking transaction scenarios, including payment failures, processing delays, exceptions and data quality issues.
 
-**Note:** All data used in this project is synthetic and does not represent actual BNY or customer information.
+**Note:** All data used in this project is synthetic and does not represent actual customer information.
 
 ## 🎯 2. Project Objectives
 
@@ -106,6 +106,8 @@ Provides a high-level view of payment transaction performance.
 - Transaction Status Distribution
 - Transaction Volume by Payment Channel
 
+![Power BI Executive Overview](Executive%20Overview_PowerBI.png)
+
 ### 📍 Dashboard 2 – Payments Operations
 
 Analyses payment processing efficiency and operational performance.
@@ -123,6 +125,8 @@ Analyses payment processing efficiency and operational performance.
 - SLA Attainment by Region
 - Monthly Failed and Returned Transactions Trend
 
+![Power BI Payments Operations](Payment%20Operations_PowerBI.png)
+
 ### 📍 Dashboard 3 – Data Quality & Controls
 
 Focuses on identifying and monitoring transaction data quality issues.
@@ -138,9 +142,7 @@ Focuses on identifying and monitoring transaction data quality issues.
 - Data Quality Issues by Severity
 - Detailed Data Quality Issues Table with Recommended Actions
 
-📎 **Power BI Project File:**
-
-Download `BNY_Global_Payments_Trade_Dashboard.pbix` from this repository to explore the interactive report in Power BI Desktop.
+![Power BI Data Quality and Controls](Data%20Quality%20and%20Controls_PowerBI.png)
 
 ## 💻 6. SQL Analysis
 
@@ -205,7 +207,7 @@ SQL scripts and project documentation will be added to the repository as the wor
 
 This is an independent learning and portfolio project developed using synthetic data. It demonstrates practical analytics capabilities and an understanding of payment operations, data management and Business Intelligence concepts.
 
-This project is not affiliated with or based on confidential data from BNY.
+This project is not affiliated with or based on confidential data.
 
 ---
 
